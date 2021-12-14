@@ -3,7 +3,7 @@
 This is an awareness program created for the better understanding of poverty and its danger. This app provides information about the nearest Ashrams/Orphanahes that you can either donate or know and help.
 
 Finished Product:-  
-&nbsp;&nbsp;&nbsp;&nbsp;https://adhithya777.github.io/awareness_program  
+&nbsp;&nbsp;&nbsp;&nbsp;https://sd-rahulk.github.io/awareness-programme/
 &nbsp;&nbsp;&nbsp;&nbsp;A netlify app will be provided soon.
 
 Development:-  
